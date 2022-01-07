@@ -1,6 +1,2 @@
-# nwuzmed.github.io
-nwuzmed.github.io
-
-.footer {
-  display: none;
-}
+# NWUzmed
+Direct Air Capture
