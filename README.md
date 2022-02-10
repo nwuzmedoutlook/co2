@@ -1,5 +1,5 @@
 <div align='center' >
-  <a href="https://co2capture.cf/vita/" target="_blank" style="color:#1d953f;font-size:20px" >一木先生</a>
+  <a href="https://co2capture.cf/" target="_blank" style="color:#1d953f;font-size:20px" >一木先生</a>
   <br>
   <a href="https://co2co2.cf/" target="_blank" style="color:#1d953f;font-size:30px" >NWUzmed's world</a>
   <br>
